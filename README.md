@@ -6,8 +6,8 @@
 
 
 <ol>
-  <li><a href="default.asp">SVR</a></li>
-  <li><a href="news.asp">Single Hidden Layer Network</a></li>
-  <li><a href="contact.asp">Extended SVM</a></li>
+  <li><a href="SVR">SVR</a></li>
+  <li><a href="Single%20Hidden%20Layer%20Network">Single Hidden Layer Network</a></li>
+  <li><a href="Extended%20SVM">Extended SVM</a></li>
 </ol>
 
